@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This hands-on network security lab demonstrates the deployment, architecture hardening, and security baselining of a Small Office/Home Office (SOHO) network environment using **Cisco Packet Tracer**. The project models a complete physical-to-logical infrastructure setup, ensuring secure data transit and endpoint authentication.
 
-* 📂 **Full Project Repository:** [Click Here to View Main Repository](Cisco-Network-Security-Labs)
+* 📂 **Full Project Repository:** [Click Here to View Main Repository](Cisco_Wireless_Router_Lab.pka)
 
 ---
 
